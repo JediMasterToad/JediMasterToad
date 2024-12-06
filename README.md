@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @JediMasterToad
+- 👀 I’m interested in computers, graphic design, programming, golf, cooking, and ll music except country.
+- 🌱 I’m currently learning Lua
+- 💞️ I’m looking to collaborate on Fortnite and Roblox creations, specifically coding GUIs for games and game logistics, which I spent over 20 years doing for a major came development company. I am not retired and looking for fun projects. 
+- 📫 Email me anytime with inquiries. JediMasterToad11@gmail.com 
+- ⚡ Fun fact:  The Celtic war cry, "Céad Mile Fáilte" (pronounced "Kya-mil-fawl-cha"), means "A Hundred Thousand Welcomes." Ironically, it was often shouted before a battle, but noone remembers why!
