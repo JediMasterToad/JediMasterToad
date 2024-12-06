@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JediMasterToad
-- 👀 I’m interested in computers, graphic design, programming, golf, cooking, and ll music except country.
+- 👀 I’m interested in computers, graphic design, programming, golf, cooking, and all music except country.
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on Fortnite and Roblox creations, specifically coding GUIs for games and game logistics, which I spent over 20 years doing for a major came development company. I am not retired and looking for fun projects. 
 - 📫 Email me anytime with inquiries. JediMasterToad11@gmail.com 
